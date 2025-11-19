@@ -1,0 +1,7 @@
+diff --git a/secrets.txt b/secrets.txt
+index 88987b9..4fe5a95 100644
+--- a/secrets.txt
++++ b/secrets.txt
+@@ -1 +1,2 @@
+ теормин 5
++теормин

@@ -1,0 +1,20 @@
+*   eabfda8 Merge feature2
+|\  
+| * 591eadb feature2 change
+* |   489d0cd Merge feature1
+|\ \  
+| * | c4dc04c feature1 change
+| |/  
+| * 694cef7 add secrets.txt 5
+| * 59110eb add secrets.txt 4
+| | * 138e1e9 1st cmt в ветке gguf
+| | * d5a9c80 add secrets.txt 5
+| | * 7474c53 add secrets.txt 3
+| |/  
+|/|   
+* | 793045b new cmt
+|/  
+* de03125 add secrets.txt 3
+* 7815e50 add secrets.txt 2
+* 4015a7c add secrets.txt 1
+* e70d71e init
